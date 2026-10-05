@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://farisgroup.in/sitemap.xml
